@@ -8,7 +8,7 @@ export default function Introduction() {
       <h1>
         Pazer em{" "}
         <br className={scss.linebreak}/>
-        conhecê-lo! Eu sou <em>Nícollas&nbsp;Gomes</em>
+        conhecê-lo! Eu sou <em>Nícollas&nbsp;Provatti</em>
       </h1>
       <p>
         Desenvolvedor front-end apaixonado por criar experiências web acessíveis e envolventes.
