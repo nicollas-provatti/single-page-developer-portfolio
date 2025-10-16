@@ -17,6 +17,12 @@ export default function Projects() {
       demo: "https://product-list-with-cart-nh69.onrender.com/",
       code: "https://github.com/nicollas-provatti/product-list-with-cart",
     },
+    {
+      title: "Intro section with dropdown navigation",
+      langs: "React Tailwind Motion Figma",
+      demo: "https://intro-section-with-dropdown-navigation-pn8s.onrender.com/",
+      code: "https://github.com/nicollas-provatti/intro-section-with-dropdown-navigation",
+    },
   ];
   return (
     <section className={scss.projects}>
